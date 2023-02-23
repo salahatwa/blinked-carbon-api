@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "blinked-carbon": "^1.0.2",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mime": "^3.0.0"
+  }
+}
